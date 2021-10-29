@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  background: #CAE0EF;
+}
+
+.main {
+  width: auto;
+  height: auto;
+}
+
+.Nav {
+  width: auto;
+  height: 90px;
+  text-align: right;
+  background: #88A8EB;
+}
+
+.body {
+  width: auto;
+  height: auto;
+  text-align: center;
+  font-family: 'Fugaz one', cursive;
+  font-size: 25px;
+  color: #4E1973;
+  position: relative;
+  left: 350px;
+  top: 80px;
+  bottom: 0;
+}
+
+#p{
+  width: 600px;
+  height: auto;
+  margin-left: 450px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: 'Fugaz one', cursive;
+  font-size: 30px;
+  color: #44355C;
+}
+
+span {
+  font-size: 50px;
+  color: #44359C;
+}
+
+#bg {
+  position: absolute;
+  top: 150px;
+  left: 30px;
+  width: 500;
+  height: 350px;
+  border: solid 20px #CAE0EF;
+  border-radius: 50px;
+}
+
+#a {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  color: white;
+  text-decoration: none;
+  position: relative;
+  top: 10px;
+  margin-right: 890px;
+}
+
+#b {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color: white;
+  margin-right: 35px;
+}
+
+#c {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  margin-right: 35px;
+}
+
+#d {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  margin-right: 35px;
+}
+
+#e {
+  width: 200px;
+  height: 75px;
+  color: white;
+  background: #88A8EB;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  border: solid 2px #44355C;
+  border-radius: 10px;
+}
+
+#aa {
+  text-align: center;
+  font-family: 'Fugaz one', cursive;
+  font-size: 50px;
+  color: #4E1973;
+  margin-top: 25px;
+}
+
+.photos{
+  width: auto;
+  position: relative;
+  top: 190px;
+  height: 550px;
+  background: #88A8EB;
+}
+
+#one {
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  width: 700;
+  height: 350px;
+  border: solid 20px #88A8EB;
+  border-radius: 100px;
+}
+
+#two {
+  position: absolute;
+  top: 100px;
+  left: 800px;
+  width: 700;
+  height: 350px;
+  border: solid 20px #88A8EB;
+  border-radius: 100px;
+}
+
+.footer {
+  width: 100%;
+  height: 50px;
+  position: relative;
+  top:200px;
+  background: #CAE0EF;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+#cr {
+  width: 650px;
+  height: auto;
+  margin-left: 450px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: 'Fugaz one', cursive;
+  font-size: 20px;
+  color: #44355C;
+}
